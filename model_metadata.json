@@ -1,0 +1,14 @@
+{
+  "accuracy": 0.8156424581005587,
+  "features": [
+    "Pclass",
+    "Sex",
+    "Age",
+    "SibSp",
+    "Parch",
+    "Fare",
+    "Embarked"
+  ],
+  "model": "RandomForestClassifier",
+  "target": "Survived"
+}
